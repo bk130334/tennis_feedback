@@ -62,6 +62,8 @@ ModuleNotFoundError: No module named 'mediapipe'
 --> pip install mediapipe
 ModuleNotFoundError: No module named 'joblib'
 --> pip install joblib
+ModuleNotFoundError: No module named 'sklearn'
+--> pip install scikit-learn
 ```
 
 2. 이미지 파일 입력
